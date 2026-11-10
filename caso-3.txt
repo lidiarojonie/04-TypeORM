@@ -1,0 +1,6 @@
+curl -X PATCH http://localhost:3000/plantas/12/campo   
+    -H "Content-Type: application/json"   
+    -d '{"nombreCampo":"nombre","nuevoValor":"Monstera deliciosa"}'
+
+    
+{"id":12,"nombre":"Monstera deliciosa","alturaCm":45}

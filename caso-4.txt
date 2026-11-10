@@ -1,0 +1,4 @@
+curl -X PATCH http://localhost:3000/plantas/2/cambiar-vivero/1
+
+
+{"id":2,"nombre":"Acacia Roja","alturaCm":450,"vivero":{"id":1,"nombre":"Vivero Central"}}

@@ -1,0 +1,14 @@
+curl http://localhost:3000/plantas
+
+
+[{"id":2,"nombre":"Acacia Roja","alturaCm":450,"vivero":{"id":2,"nombre":"Vivero Mediterr neo"}},
+{"id":3,"nombre":"Cipr‚s","alturaCm":1200,"vivero":{"id":1,"nombre":"Vivero Central"}},
+{"id":4,"nombre":"Rosal","alturaCm":80,"vivero":{"id":1,"nombre":"Vivero Central"}},
+{"id":5,"nombre":"Palmera","alturaCm":5500,"vivero":{"id":2,"nombre":"Vivero Mediterr neo"}},
+{"id":6,"nombre":"Lavanda","alturaCm":35,"vivero":{"id":2,"nombre":"Vivero Mediterr neo"}},
+{"id":7,"nombre":"Olivo","alturaCm":300,"vivero":{"id":2,"nombre":"Vivero Mediterr neo"}},
+{"id":8,"nombre":"Bamb£","alturaCm":7000,"vivero":{"id":3,"nombre":"Vivero Tropical"}},
+{"id":9,"nombre":"Orqu¡dea","alturaCm":40,"vivero":{"id":3,"nombre":"Vivero Tropical"}},
+{"id":10,"nombre":"Helecho","alturaCm":90,"vivero":{"id":3,"nombre":"Vivero Tropical"}},
+{"id":11,"nombre":"Rosal","alturaCm":50,"vivero":{"id":1,"nombre":"Vivero Central"}},
+{"id":12,"nombre":"Monstera","alturaCm":45,"vivero":{"id":1,"nombre":"Vivero Central"}}]

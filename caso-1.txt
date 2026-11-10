@@ -1,0 +1,6 @@
+curl -X POST http://localhost:3000/plantas/crear \
+  -H "Content-Type: application/json" \
+  -d '{"nombre":"Monstera","alturaCm":45,"vivero":{"id":1}}'
+
+  
+{"nombre":"Monstera","alturaCm":45,"vivero":{"id":1},"id":12}
